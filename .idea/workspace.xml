@@ -5,20 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d468d97-24d1-4242-a5a3-4facb944cd7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CaesarChiper.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Literal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MainApp.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bilanganBulat.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bilanganDesimal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/blok.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/blokDanKomentar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boolean.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/character.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsiAnggotaString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kalkulatorSederhana.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/konversiEksplisit.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/konversiEksplisitChar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/penerapanString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/rawString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/readLine1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/readLine2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/representasi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/representasi1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sandiMorse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stringDanTipeDataLain.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stringKotlin2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stringTemplates.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/tugasPratikum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/underscore.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/valVariable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/varVariable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/variableDynamic.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/variableStatic.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +55,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.LiteralKt">
+  <component name="RunManager" selected="Kotlin.TugasPratikumKt">
     <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LiteralKt" />
       <module name="prak1DasarPemogramanKotlin" />
@@ -68,8 +70,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TugasPratikumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TugasPratikumKt" />
+      <module name="prak1DasarPemogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TugasPratikumKt" />
         <item itemvalue="Kotlin.LiteralKt" />
         <item itemvalue="Kotlin.MainAppKt" />
       </list>
@@ -91,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727095230249</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="push stater project">
+      <created>1727096257754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727096257754</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
